@@ -96,7 +96,7 @@ To write a C Program to read and store the data of 3 employees and calculate the
 
  ## OUTPUT
 
-![Screenshot 2025-04-27 162343](https://github.com/user-attachments/assets/c0c5e6bb-da6a-40af-8b39-4adce70c0fea)
+![Screenshot 2025-04-27 161334](https://github.com/user-attachments/assets/81aee736-fcec-4e6b-b61f-edc05228ffbe)
  
 ## RESULT
 
@@ -141,7 +141,7 @@ Step 8: End the program.
 ![Screenshot 2025-04-27 163238](https://github.com/user-attachments/assets/b6fffc16-e003-4852-8017-e47ca5a670e8)
 
 ## OUTPUT
-![Screenshot 2025-04-27 163356](https://github.com/user-attachments/assets/53ab256b-78a5-4ce0-be82-329bd4c2cbc8)
- 
+![Screenshot 2025-04-27 163418](https://github.com/user-attachments/assets/522dc537-6d75-411e-9ebe-afc64267d189)
+
 ## RESULT
 Thus the C program to calculate the total and average of student using structure has been executed successfully.
